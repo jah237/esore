@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+import(Rcpp)
+import(Rmpfr)
+import(MASS)
+import(statmod)
+import(gtools)
